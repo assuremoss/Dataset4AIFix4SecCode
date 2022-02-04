@@ -1,9 +1,11 @@
 # Dataset4AIFix4SecCode
 The dataset can be used for teaching machine-learning based fixing of detectable issues in AIFix4SecCode.
-It examples for vulnerable and fixed versions for:
+It contains examples for vulnerable and fixed versions for:
+
 SonarQube:
 - S1444
 - S2384
+
 Spotbugs:
 - EI_EXPOSE_REP
 - EI_EXPOSE_REP2
