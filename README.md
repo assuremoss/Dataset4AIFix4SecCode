@@ -1,6 +1,6 @@
 # Dataset4AIFix4SecCode
 (Work in progress)
-The dataset can be used for teaching machine-learning based fixing of detectable issues in AIFix4SecCode.
+The dataset can be used for teaching machine-learning based fixing of detectable issues in AIFix4SecCode developed in the AssureMOSS project.
 It contains examples for vulnerable and fixed versions for:
 
 SonarQube:
